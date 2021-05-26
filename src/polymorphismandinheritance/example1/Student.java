@@ -5,7 +5,7 @@
  *   File: Student.java
  */
 
-package polymorphismandinheritace.example1;
+package polymorphismandinheritance.example1;
 
 public class Student {
     private int rollNumber;

@@ -5,7 +5,7 @@
  *   File: Main.java
  */
 
-package polymorphismandinheritace.Example2;
+package polymorphismandinheritance.Example2;
 class BoyFriend{
     String name;
     int numberOfExGirlFriends;
